@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlutterHost</string>
+    <string name="module_1">模块1</string>
+    <string name="module_2">模块2</string>
+</resources>
